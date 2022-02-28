@@ -63,6 +63,7 @@ The purpose of this challenge was to create a report that includes what cryptocu
 
 ## **Results**
 
+![Deliverable 4 - Image 1](https://user-images.githubusercontent.com/92111396/156017542-9dd5168f-1bca-43d8-8310-3e53d9326733.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
