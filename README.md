@@ -4,6 +4,7 @@
 
 ## **Project Overview**
 
+Our best friend Martha is pitching an investment in cryptocurrencies to her firm, Accountability Accounting, and we have agreed to help. Martha has a dataset of cryptocurrencies and we have agreed to analyse it to discover trends using unsupervised machine learning, that will convince her firm to invest in new cryptocurrencies.  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +14,7 @@
 
 -Software: Python 3.7.10; Visual Studio Code 1.64.2; Jupyter Notebook.
 
--Resources:
+-Resources: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html; https://datatofish.com/create-pandas-dataframe/; https://matplotlib.org/.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
