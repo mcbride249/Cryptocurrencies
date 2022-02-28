@@ -54,12 +54,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
 ## **Purpose**
 
-The purpose of this challenge was to use unsupervised learning to process data, cluster, reduce dimensions, and reduce the principal components of PCA.
-
+The purpose of this challenge was to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for new investment. As the data presented is not perfect or cleaned, it needed to be processed to fit the machine learning models using unsupervised learning as there is no known output as to what we are looking for un terms of results. Unsupervised learning was used to process data, cluster, reduce dimensions, and reduce the principal components of PCA, to present our findings to the board. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
