@@ -76,5 +76,5 @@ The purpose of this challenge was to create a report that includes what cryptocu
 
 The below dataframes summarize the results in regards to the top cryptocurrencies based on Total Coins Mined and Total Coin Supply.  
 
-![Summary - Image 1](https://user-images.githubusercontent.com/92111396/156266536-65c4d608-5579-4e2e-ab9a-66670215158b.png)
+![Summary - Image 1](https://user-images.githubusercontent.com/92111396/156266864-639af812-9205-4bb5-881e-f75ff81abc82.png)
 
