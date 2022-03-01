@@ -77,7 +77,7 @@ https://github.com/mcbride249/Cryptocurrencies/blob/main/Images/Results%20-%20Im
 
 ## **Summary**
 
-The below dataframes summarize the results in regards to the top cryptocurrencies based on Total Coins Mined and Total Coin Supply.  
+The below dataframes summarize the results in regards to the top potential cryptocurrencies for investment based on "Total Coins Mined" and "Total Coin Supply".  
 
 ![Summary - Image 1](https://user-images.githubusercontent.com/92111396/156266864-639af812-9205-4bb5-881e-f75ff81abc82.png)
 https://github.com/mcbride249/Cryptocurrencies/blob/main/Images/Summary%20-%20Image%201.png
