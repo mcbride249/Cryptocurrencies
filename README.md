@@ -50,7 +50,9 @@ Our best friend Martha is pitching an investment in cryptocurrencies to her firm
 
 ## **Deliverable 4 - Visualizing Cryptocurrencies Results**
 
+![Deliverable 4 - Image 1](https://user-images.githubusercontent.com/92111396/156266073-9a863281-e5b1-492a-adab-ca3f1585ab29.png)
 
+![Deliverable 4 - Image 2](https://user-images.githubusercontent.com/92111396/156266094-c823af9c-fb54-46b4-a37e-4966d49107ab.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -63,12 +65,16 @@ The purpose of this challenge was to create a report that includes what cryptocu
 
 ## **Results**
 
-![Deliverable 4 - Image 1](https://user-images.githubusercontent.com/92111396/156017542-9dd5168f-1bca-43d8-8310-3e53d9326733.png)
+![Results - Image 1](https://user-images.githubusercontent.com/92111396/156266299-118c7208-b885-46cc-b0de-43216247b5c4.png)
+
+![Results - Image 2](https://user-images.githubusercontent.com/92111396/156266308-2cc97ca3-b325-49c4-ad13-6ee7f32e691d.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Summary**
 
- 
+The below dataframes summarize the results in regards to the top cryptocurrencies based on Total Coins Mined and Total Coin Supply.  
+
+![Summary - Image 1](https://user-images.githubusercontent.com/92111396/156266536-65c4d608-5579-4e2e-ab9a-66670215158b.png)
 
